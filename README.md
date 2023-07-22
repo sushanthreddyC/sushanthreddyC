@@ -22,7 +22,7 @@ Thank you for visiting my page.
 
 > # Current Stats 🔥
 
-<img src="https://komarev.com/ghpvc/?username=surya-prakash-susarla&style=flat-square&color=blue" alt="Github profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=sushanthreddyC&style=flat-square&color=blue" alt="Github profile views counter" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sushanthreddyC&theme=dark&background=000000)](https://git.io/streak-stats)
 
