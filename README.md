@@ -2,12 +2,11 @@
 > # Hello! 🙋‍♂️
 I am Sushanth Reddy Chilla
 Thank you for visiting my page.
-A highly skilled and motivated professional passionate about Machine Learning, Data Science, and Natural Language Processing (NLP).I am Proficient in Python, TensorFlow, PyTorch, and other ML/NLP frameworks. I also excel in data preprocessing and algorithm development. With a proven track record of delivering measurable outcomes and driving organizational growth, I am an enthusiastic team player dedicated to continuous learning and staying at the forefront of advancements in AI and data science.
-
+A highly skilled and motivated professional passionate about Machine Learning, Data Science, and Natural Language Processing (NLP).
 
 > # About Me ✒️
 
-
+I am currently pursuing a Master of Science in Electrical Engineering at North Carolina State University, Raleigh, with a focus on Machine Learning. I am Proficient in Python, TensorFlow, PyTorch, and other ML/NLP frameworks. I also excel in data preprocessing and algorithm development. With a proven track record of delivering measurable outcomes and driving organizational growth, I am an enthusiastic team player dedicated to continuous learning and staying at the forefront of advancements in AI and data science.
 
 
 > # Tools & Frameworks ⚒️
