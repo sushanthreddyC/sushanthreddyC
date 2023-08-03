@@ -2,7 +2,7 @@
 > # Hello! 🙋‍♂️
 I am Sushanth Reddy Chilla
 Thank you for visiting my page.
-A highly skilled and motivated professional passionate about Machine Learning, Data Science, and Natural Language Processing (NLP).
+I am a highly skilled and motivated professional passionate about Machine Learning, Data Science, and Natural Language Processing (NLP).
 
 > # About Me ✒️
 
